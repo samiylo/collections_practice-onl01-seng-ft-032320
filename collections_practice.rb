@@ -42,4 +42,12 @@ def find_a(array)
   placeholder
 
 end
+
+def sum_array(array)
+  array.each do |int|
+    
+
+
+
+
   
